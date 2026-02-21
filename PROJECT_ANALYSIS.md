@@ -34,8 +34,6 @@ Phishing-Website-Detection/
 │
 ├── 📖 Documentation
 │   ├── README.md                      ✓ Project overview
-│   ├── SETUP_GUIDE.md                 ✓ Detailed setup instructions
-│   ├── QUICKSTART.md                  ✓ Quick start guide
 │   └── Phishing Website Detection by Machine Learning Techniques Presentation.pdf  ✓
 │
 ├── ⚙️ Configuration Files
