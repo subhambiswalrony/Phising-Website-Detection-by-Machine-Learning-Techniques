@@ -89,12 +89,8 @@ Phishing Website Detection/
 │
 ├── 📚 Documentation/
 │   ├── README.md                          # This file
-│   ├── SETUP_GUIDE.md                     # Detailed setup instructions
-│   ├── SETUP_COMPLETE.md                  # Post-setup verification
-│   ├── QUICKSTART.md                      # Quick start guide
 │   ├── PROJECT_ANALYSIS.md                # Project analysis & insights
-│   └── WINDOWS_FIXES.md                   # Windows-specific fixes
-│
+│   
 ├── ⚙️ Configuration/
 │   ├── requirements.txt                   # Python dependencies
 │   ├── .gitignore                         # Git ignore rules
